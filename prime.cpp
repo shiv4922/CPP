@@ -1,7 +1,7 @@
 #include<iostream.h>
 using namespace std;
 
-int main()
+void main()
 {
     int n,i=2;
     cout<<"enter no";
